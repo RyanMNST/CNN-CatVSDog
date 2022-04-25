@@ -1,5 +1,5 @@
 # CS 9342 - Course Project
----
+
 ## _Dog and Cat Image Classification Using a Convolutional Neural Network_
 A project for the course CS 9342 Artificial Neural Network. This project deals with investigating a chosen classification problem and creating an artificial neural network model to solve it.
 
