@@ -15,6 +15,7 @@ A project for the course CS 9342 Artificial Neural Network. This project deals w
 ## Files and Folders
 - Model_Notebook.ipynb - Contains the code for preprocessing and building the model
 - dogs-vs-cats - Contains the dataset used
+ - Download the [Dataset] (900 MB).
 
 ## Group Members
 | Name | Email |
@@ -40,6 +41,7 @@ A project for the course CS 9342 Artificial Neural Network. This project deals w
    [scikit-learn]: <https://scikit-learn.org/stable/>
    [Keras]: <https://keras.io/>
    [TensorFlow]: <https://www.tensorflow.org/>
+   [Dataset]: <https://drive.google.com/file/d/1TLDtyI6MQF6dCqlpo_1vWLr8ASboIOVO/view?usp=sharing> 
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
