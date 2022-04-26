@@ -14,6 +14,9 @@ A project for the course CS 9342 Artificial Neural Network. This project deals w
 
 ## Files and Folders
 - Model_Notebook.ipynb - Contains the code for preprocessing and building the model
+- fitting_model_results.xlsx - Contains the results of model fitting
+- model.h5 - Contains the architecture of the model using Keras' save function
+- weights - Contains the weights resulting from model fitting
 - dogs-vs-cats - Contains the dataset used
  - Download the [Dataset] (900 MB).
 
