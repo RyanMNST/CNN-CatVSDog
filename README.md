@@ -13,12 +13,16 @@ A project for the course CS 9342 Artificial Neural Network. This project deals w
 - [TensorFlow] - Another neural network library for Python
 
 ## Files and Folders
-- Model_Notebook.ipynb - Contains the code for preprocessing and building the model
-- fitting_model_results.xlsx - Contains the results of model fitting
-- model.h5 - Contains the architecture of the model using Keras' save function
-- weights - Contains the weights resulting from model fitting
-- dogs-vs-cats - Contains the dataset used
- - Download the [Dataset] (900 MB).
+- Files
+   - Model_Training.ipynb - Contains the code for preprocessing and building the model
+   - Model_Evaluation.ipynb - Contains the evaluation of the fitted model using a testing dataset
+   - model.h5 - Contains the architecture of the model using Keras' save function
+- Folders
+   - results - Contains the results of model fitting and the evaluation of the model
+   - weights - Contains the weights resulting from model fitting
+- Downloadable (limited by file size limit in GitHub)
+   - dogs-vs-cats - Contains the dataset used
+      - Download the [Dataset] (1 GB).
 
 ## Group Members
 | Name | Email |
